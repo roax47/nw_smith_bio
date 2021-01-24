@@ -78,11 +78,6 @@ def Smith(word1, word2, probability_matrix):
 
     return S, operations 
 
-  
-
-
-
-   
 def get_words_alligned(word1, word2, operations,ind_i = None, ind_j = None):
     if ind_i is not None:
         i = ind_i - 1 
