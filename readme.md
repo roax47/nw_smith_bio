@@ -1,5 +1,3 @@
-# Bio
-
 ## Uruchomienie
 ./bio.py <words_file> <matrix_file>
 
