@@ -3,7 +3,7 @@
 ## Uruchomienie
 ./bio.py <words_file> <matrix_file>
 
-words_file - plik z 2 dowolnymi sekwencjami odzielonymi znakiem nowej linii
+words_file - plik z 2 dowolnymi sekwencjami odzielonymi znakiem nowej linii <br/>
 matrix_file - macierz podobienstwa dla alfabetu zawartego w sekwencjach - musi być kwadratowa i zawierać wszystkie litery z sekwencji
 
 ## Examples
